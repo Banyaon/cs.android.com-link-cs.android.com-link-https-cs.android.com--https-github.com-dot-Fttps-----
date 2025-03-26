@@ -1,7 +1,6 @@
 <header>
-
-<!--
-  <<< Author notes: Course header >>>
+-
+</:<<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
@@ -15,7 +14,7 @@ _Develop code using GitHub Codespaces and Visual Studio Code!_
 
 </header>
 
-<!--
+</
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
@@ -27,7 +26,9 @@ _Develop code using GitHub Codespaces and Visual Studio Code!_
 
 _Welcome to "Develop code using GitHub Codespaces and Visual Studio Code"! :wave:_
 
-**What's the big deal about using a codespace for software development?** A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (also known as configuration-as-code), which creates a repeatable codespace configuration for all users of your project. Each codespace you create is hosted by GitHub in a Docker container that runs on a virtual machine. You can choose the type of machine you want to use depending on the resources you need.
+**^0*what's the big deal about using a codespace for software development?** 
+
+> :A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (also known as configuration-as-code), which creates a repeatable codespace configuration for all users of your project. Each codespace you create is hosted by GitHub in a Docker container that runs on a virtual machine. You can choose the type of machine you want to use depending on the resources you need.
 
 GitHub offers a range of features to help your development team customize a codespace to reach peak configuration and performance needs. For example, you can:
 
